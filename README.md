@@ -21,19 +21,25 @@
 ---
 
 ### ⚙️ Tech Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,tailwind,prisma,postgresql,fastapi,python,go,androidstudio,kotlin,docker,supabase" />
 </p>
 
+---
 
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedasifx&show_icons=true&theme=transparent" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmedasifx&theme=transparent" height="160"/>
+</p>
+
+---
 
 ### 📫 Let’s Connect
-
 <p align="center">
-  <a href="https://linkedin.com/in/ahmedasifx" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="linkedin.com/in/ahmed-asif-macan-markar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://in10shin.com" target="_blank"><img src="https://img.shields.io/badge/IN10SHIN-Portfolio-red?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="mailto:hello@in10shin.com"><img src="https://img.shields.io/badge/Email-hello@in10shin.com-blue?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:ahmedasifmm@gmail.com"><img src="https://img.shields.io/badge/Email-ahmedasifmm@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -43,8 +49,4 @@
 - 🎮 Passionate about game dev, clean code, and beautiful UIs
 - 🧪 Big fan of prototyping with AI and microservices
 
----
-
 > ⚡ *"Build fast. Learn faster. Ship with purpose."*
-
-
